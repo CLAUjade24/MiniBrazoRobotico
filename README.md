@@ -37,7 +37,7 @@ Primeramente, se realizó el armado del brazo robótico y así mismo la conexió
 
 ![imagen brazo robotico]()
 
- brazo funciona con sermoto Sg90 como lo muestra la imagen de uno de los sermotores
+ brazo funciona con servomotor Sg90 como lo muestra en la imagen de uno de los servomotores
   
  ![imagen del servomoteres](https://github.com/CLAUjade24/MiniBrazoRobotico/blob/master/servomotor.PNG)
  
