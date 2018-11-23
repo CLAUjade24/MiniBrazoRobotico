@@ -35,7 +35,7 @@ Servos:
  # Implementación 
 Primeramente, se realizó el armado del brazo robótico y así mismo la conexión con la protoboard, el cual concluyo en lo siguiente:
 
-![imagen brazo robotico]()
+![imagen brazo robotico](https://github.com/CLAUjade24/MiniBrazoRobotico/blob/master/baseBrazo.jpg)
 
  brazo funciona con servomotor Sg90 como lo muestra en la imagen de uno de los servomotores
   
