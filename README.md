@@ -34,7 +34,7 @@ Servos:
 * Un motor paso a paso (pinza)
  # Implementación 
 Primeramente, se realizó el armado del brazo robótico y así mismo la conexión con la protoboard, el cual concluyo en lo siguiente:
-(imagen brazo robotico)
+![imagen brazo robotico]()
  Conexión motora a pasos
 ![diagrama motor a pasos](https://github.com/CLAUjade24/MiniBrazoRobotico/blob/master/diagrama%20motor%20a%20pasos.PNG)
  Después se comenzó con la programación para su funcionalidad, para controlarlo vía remoto, el código fue creado en java con una interfaz amigable para el usuario, ya que este podrá ingresar los grados a los cuales quiere que el brazo gire. Al dar clic en el botón de ejecutar realizara las anteriores acciones de forma automática. 
@@ -45,8 +45,7 @@ El robot funciona de la siguiente manera, el usuario ingresa los datos en la int
 Al momento en el cual va realizando cada una de las acciones se iluminan leds que indican, que efectivamente el robot esta ejecutando tales movimientos. 
 
 En caso de que se desee detener la funcionalidad del robot se da clic en el botón de reset del Arduino. 
-![Primeras pruebas]()
 
  # Pruebas
 Se comenzó realizando algunas pruebas dejando un objeto para que el robot lo recogiera con las pinzas, se ingresaron los parámetros correctos y con ello pudimos concluir que este funciona correctamente. 
-
+![Primeras pruebas](https://github.com/CLAUjade24/MiniBrazoRobotico/blob/master/probandominibrazo.jpg)
